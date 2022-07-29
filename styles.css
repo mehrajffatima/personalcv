@@ -1,0 +1,99 @@
+div{
+  margin: 0;
+
+}
+h1{
+  margin: 0;
+  color: #66BFBF;
+  margin-top: 50px;
+  font-size: 90px;
+  font-family: 'Sacramento',cursive;
+  line-height: 2;
+
+}
+
+body{
+  text-align: center;
+  font-family: 'Merriweather',serif;
+}
+h2{
+  font-family: "Montserrat",sans-serif;
+  font-size: 2.5em;
+  font-weight: normal;
+  color: #66BFBF;
+
+}
+h3{
+  font-family: "Montserrat",sans-serif;
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+
+.Top_container{
+  height:auto;
+  position:relative;
+  padding-top: 100px;
+  width: auto;
+  background-color: #E4F9F5;
+}
+
+.topcloud{
+  position:absolute;
+  right:300px;
+  top:50px;
+}
+.bottomcloud{
+  position:absolute;
+  left:300px;
+  bottom:300px;
+}
+.abbas{
+  width: 250px;
+  border-radius: 50%;
+}
+.skill-row{
+  width:50%;
+  margin:auto;
+  position: relative;
+  text-align: left;
+}
+.frontend{
+  float: left;
+  margin-right: 30px;
+
+}
+.designer{
+  float: left;
+  margin-right : 30px;
+
+
+}
+
+
+.contact-me{
+  margin-bottom: 20px;
+}
+.myButton {
+	background-color:#11cdd4;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #2f6627;
+}
+.myButton:hover {
+	background-color:#30e3cb;
+}
+.myButton:active {
+
+	top:1px;
+}
+.footer-link{
+  margin: 10px;
+}
